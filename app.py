@@ -8,7 +8,7 @@ def hola_mundo():
 
 @app.route('/index')
 def hola_adso():
-    return '¡Hola - ADSO!'
+    return '¡Hola!'
 
 @app.route('/index2')
 def hola_adso2():
