@@ -8,7 +8,7 @@ def hola_mundo():
 
 @app.route('/index')
 def hola_adso():
-    return '¡Hola, como te va?!'
+    return '¡Cómo te va?!'
 
 @app.route('/index2')
 def hola_adso2():
